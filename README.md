@@ -2,6 +2,11 @@
 
 MAEasyAttributedString is a kit, which can help u code attributed string in happy way
 
+Sample
+-----
+![sample](./sample.png)
+
+
 Usage
 -----
 
@@ -21,6 +26,8 @@ Usage
   MAAttributeText *attributedText = [[MAAttributeText alloc]initWithSegments:@[prefix, sample, trail]];
   self.textLabel.attributedText = attributedText.attributedText;
 ```
+
+Example
 -------
 	Copyright 2015 Oenius Jou
 	
