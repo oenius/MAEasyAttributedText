@@ -5,7 +5,8 @@ MAEasyAttributedString is a kit, which can help u code attributed string in happ
 Usage
 -----
 
-'''objective-c
+```objective-c
+
   MAAttributeSegment *prefix = [[MAAttributeSegment alloc]initFont:[UIFont systemFontOfSize:14.f weight:10.f]
                                                          textColor:[UIColor whiteColor]
                                                               text:@"I'm relly enjoy the"];
@@ -19,7 +20,7 @@ Usage
                                                               text:@"code life"];
   MAAttributeText *attributedText = [[MAAttributeText alloc]initWithSegments:@[prefix, sample, trail]];
   self.textLabel.attributedText = attributedText.attributedText;
-'''
+```
 -------
 	Copyright 2015 Oenius Jou
 	
