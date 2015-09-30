@@ -1,4 +1,4 @@
-# MAEasyAttributedString
+# MAEasyAttributedText
 
 MAEasyAttributedString is a kit, which can help u code attributed string in happy way
 
